@@ -1,7 +1,4 @@
 streamlit==1.21.0
 langcodes==3.3.0
 language-data==1.1
-<<<<<<< HEAD
 marisa-trie==0.7.8 --only-binary=:all:
-=======
->>>>>>> origin/main
